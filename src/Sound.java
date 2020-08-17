@@ -17,6 +17,7 @@ public class Sound {
 				clip.open(audioInputStream);
 				clip.start();
 			}
+            // InputStream
 			
 			catch(Exception e){
 				
